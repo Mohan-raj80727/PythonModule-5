@@ -12,7 +12,7 @@ To write a Python program that creates a **Student** class with a **default cons
 
 ## 🧾 Program
 
-```
+```python
 class Student:
     def _init_(self,a):
         self.a=a
